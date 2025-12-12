@@ -1,4 +1,3 @@
-import { RLE } from './rle.js';
 import { Inventory, Item } from './item.js';
 import { describe, it, expect, beforeAll, beforeEach } from 'vitest'
 
