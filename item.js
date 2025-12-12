@@ -99,7 +99,7 @@ export class Inventory
       
       if( result[item.name] == null) 
       {
-        result[item.name] = 0;
+        result[item.name] = 1;
       }
       else
       {
